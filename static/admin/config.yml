@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: Imrahulk/rahul-blog
-  branch: main
+  branch: master
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
