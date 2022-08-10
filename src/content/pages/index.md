@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Rahul K
 tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/minnu.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
