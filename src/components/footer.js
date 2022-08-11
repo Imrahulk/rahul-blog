@@ -12,7 +12,7 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-      © Copyright, 2022 <a href="/">Rahul K</a>
+      © Copyright, 2022 <a href="/">Rahul K Nair</a>
       
       </p>
     </div>
