@@ -11,11 +11,19 @@
   min-height: calc(100vh - 60px - 81px);
 }
 .site-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: relative;
-  padding: 30px 20px;
+   display: flex;
+ justify-content: flex-end;
+ align-items: center;
+  // position: relative;
+  padding: 20px 20px;
+  background: rgb(255, 255, 255);
+    width: 100%;
+    z-index: 1;
+    box-shadow: rgb(0 0 0) 0px 5px 20px -10px;
+    position: fixed;
+    margin-bottom: unset;
+    
+  
 }
 .site-navigation {
   ul {
@@ -93,6 +101,10 @@
   padding: 0 20px;
 }
 .site-logo {
+ 
+
+  margin-right: auto;
+  
   font-weight: bold;
   a {
     color: #000;
@@ -106,7 +118,7 @@
   }
 }
 .home-banner {
-  padding: 60px 0;
+  padding: 100px 0;
   align-items: center;
   .title {
     font-size: 48px;
