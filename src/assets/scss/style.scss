@@ -16,7 +16,7 @@
  align-items: center;
   // position: relative;
   padding: 20px 20px;
-  background: rgb(255, 255, 255);
+  background:#fafafa;
     width: 100%;
     z-index: 1;
     box-shadow: rgb(0 0 0) 0px 5px 20px -10px;
@@ -26,6 +26,7 @@
   
 }
 .site-navigation {
+  background-color:#761010;
   ul {
     list-style: none;
     margin: 0;
@@ -50,7 +51,7 @@
     font-size: 24px;
     background: none;
     border: none;
-    color: white;
+    color: purple;
     padding: 0;
     cursor: pointer;
   }
