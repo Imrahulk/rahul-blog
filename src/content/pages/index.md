@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Rahul K
-tagline: Graphic Designer
+tagline: "Software Engineer "
 featuredImage: /assets/minnu.jpg
 cta:
   ctaText: Know more
